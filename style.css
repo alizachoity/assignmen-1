@@ -94,7 +94,8 @@ h1{
     height: 710px;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 100
+    px;
 }
 .Inspirationimg{
     border-radius: 10px;
@@ -194,5 +195,3 @@ h1{
     height:50px ;
     background-color: beige;
 }
-margin: 25px 50px 75px 100px;
-padding: 25px 50px 75px 100px;
